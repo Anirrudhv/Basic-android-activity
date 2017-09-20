@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assingment-1</string>
+    <string name="activity_name">hello world</string>
+    <string name="activity_a">activity a</string>
+    <string name="start_activity_b">activity b</string>
+    <string name="dialogue_button">Dialogue</string>
+    <string name="button_close_app">close app</string>
+    <string name ="thread_count">thread count</string>
+    <string name="activity_dialog">simple dialog</string>
+</resources>
